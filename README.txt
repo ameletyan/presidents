@@ -57,6 +57,4 @@ LINE	|	OLD					|	NEW
  7. Open your favorite browser and go to "localhost:8000".  The app should be running on
  that page.
  
- I have put a semi-official report in the comments section of Moodle.  I plan to keep working on
- the app, but as of now I have done all I need with the database portion.  The rest of the work
- will be related to organization and style.
+ My official write-up is in another file.
